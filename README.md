@@ -14,9 +14,11 @@ La aplicación también enmascara los números de la tarjeta (menos los últimos
 
 <img src="https://github.com/adriana17soto/BOG003-card-validation/blob/master/src/img/propotipo_1.png" alt="prototipo">
 <img src="https://github.com/adriana17soto/BOG003-card-validation/blob/master/src/img/propotipo_2.png" alt="prototipo">
-<img src="https://github.com/adriana17soto/BOG003-card-validation/blob/master/src/img/propotipo_3.png">
+<img src="https://github.com/adriana17soto/BOG003-card-validation/blob/master/src/img/propotipo_3.png" alt="prototipo">
 
-##Pantalla 1
+## PRODUCTO FINAL 
+
+## Pantalla 1
 <img src="https://github.com/adriana17soto/BOG003-card-validation/blob/master/src/img/pantalla_1.png" alt="pantalla_1">
 
 ## Pantalla 2
